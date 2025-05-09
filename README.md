@@ -105,7 +105,7 @@ This project is provided for **educational purposes only**.
 ## 📚 Credits
 
 - Cryptography: [Go standard libs + ECIES]
-- Author: [Your Name or Handle]
+- Author: [Pruthvi]
 - Inspired by real-world ransomware for educational simulation
 
 ---
